@@ -1,2 +1,2 @@
 # phishing-template
-some handmade physhing template
+some handmade phishing template
