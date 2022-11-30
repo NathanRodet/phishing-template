@@ -1,3 +1,3 @@
-# phishing-template
+# phishing-templates
 
-ome handmade physhing template
+Some phishing template, for educative or legal purposes like company audit only. I am not responsible for your actions.
